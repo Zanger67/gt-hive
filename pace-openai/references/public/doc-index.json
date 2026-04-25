@@ -1,0 +1,187 @@
+{
+  "generated_at_utc": "2026-04-25T17:23:03.575376+00:00",
+  "profile": "public",
+  "default_cluster": "phoenix",
+  "items": [
+    {
+      "filename": "PACE - External - Use Job-Specific Local Scratch Storage.md",
+      "title": "PACE - External - Use Job-Specific Local Scratch Storage",
+      "cluster": "common",
+      "topics": [
+        "resources",
+        "slurm",
+        "storage"
+      ],
+      "word_count": 572,
+      "quality_score": 7,
+      "fingerprint": "747ed9e9376bd707",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "filename": "PACE - External - Open OnDemand Guide.md",
+      "title": "PACE - External - Open OnDemand Guide",
+      "cluster": "common",
+      "topics": [
+        "ondemand",
+        "resources",
+        "storage"
+      ],
+      "word_count": 1721,
+      "quality_score": 5,
+      "fingerprint": "6908b32ac6933940",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "filename": "PACE - External - Working with TarfilesTarballs on the Cluster.md",
+      "title": "PACE - External - Working with Tarfiles/Tarballs on the Cluster",
+      "cluster": "common",
+      "topics": [
+        "storage",
+        "transfer"
+      ],
+      "word_count": 722,
+      "quality_score": 5,
+      "fingerprint": "1ad3b5506fc9ec82",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "filename": "PACE - External - Helpful Commands Cheatsheet.md",
+      "title": "PACE - External - Helpful Commands Cheatsheet",
+      "cluster": "common",
+      "topics": [
+        "resources",
+        "storage"
+      ],
+      "word_count": 251,
+      "quality_score": 4,
+      "fingerprint": "2a0244e7d3319810",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "filename": "PACE - External - Workshop PACE Clusters Orientation.md",
+      "title": "PACE - External - Workshop: PACE Clusters Orientation",
+      "cluster": "common",
+      "topics": [
+        "resources",
+        "slurm",
+        "training",
+        "transfer"
+      ],
+      "word_count": 345,
+      "quality_score": -2,
+      "fingerprint": "f94848fd5648e78a",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "filename": "PACE - External - Workshop Linux 102.md",
+      "title": "PACE - External - Workshop: Linux 102",
+      "cluster": "common",
+      "topics": [
+        "training"
+      ],
+      "word_count": 415,
+      "quality_score": -7,
+      "fingerprint": "6a75ec0828cf72b1",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "filename": "PACE - External - Workshop Linux 101.md",
+      "title": "PACE - External - Workshop: Linux 101",
+      "cluster": "common",
+      "topics": [
+        "training"
+      ],
+      "word_count": 325,
+      "quality_score": -8,
+      "fingerprint": "d9776ca98ef2a8fd",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "filename": "PACE - External - Workshop Optimization 101.md",
+      "title": "PACE - External - Workshop: Optimization 101",
+      "cluster": "common",
+      "topics": [
+        "training"
+      ],
+      "word_count": 307,
+      "quality_score": -8,
+      "fingerprint": "d38ee8592087483c",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "filename": "PACE - External - Storage on ICE.md",
+      "title": "PACE - External - Storage on ICE",
+      "cluster": "ice",
+      "topics": [
+        "ondemand",
+        "resources",
+        "slurm",
+        "storage",
+        "transfer"
+      ],
+      "word_count": 739,
+      "quality_score": 9,
+      "fingerprint": "ee144909999c0e78",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "filename": "PACE - External - Using Slurm on ICE.md",
+      "title": "PACE - External - Using Slurm on ICE",
+      "cluster": "ice",
+      "topics": [
+        "ondemand",
+        "resources",
+        "slurm",
+        "storage"
+      ],
+      "word_count": 4567,
+      "quality_score": 7,
+      "fingerprint": "b2e16c3113f92e21",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "filename": "PACE - External - Getting Started with ICE.md",
+      "title": "PACE - External - Getting Started with ICE",
+      "cluster": "ice",
+      "topics": [
+        "migration",
+        "ondemand",
+        "resources",
+        "slurm",
+        "storage",
+        "training"
+      ],
+      "word_count": 521,
+      "quality_score": 5,
+      "fingerprint": "addf3e66edc3f8e8",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "filename": "PACE - External - ICE Cluster Resources.md",
+      "title": "PACE - External - ICE Cluster Resources",
+      "cluster": "ice",
+      "topics": [
+        "resources",
+        "slurm",
+        "storage",
+        "training"
+      ],
+      "word_count": 854,
+      "quality_score": 5,
+      "fingerprint": "1933ded6b5492350",
+      "canonical": true,
+      "duplicate_of": null
+    }
+  ]
+}

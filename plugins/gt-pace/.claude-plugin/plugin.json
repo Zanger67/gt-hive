@@ -1,0 +1,8 @@
+{
+  "name": "gt-pace",
+  "description": "Skills for working with Georgia Tech's PACE HPC clusters (Phoenix and ICE). Provides Slurm job scripting, storage navigation, GPU resource selection, troubleshooting, and ready-made templates for ML training and batch computing workflows.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": "https://github.com/glennmatlin/gt-hive",
+  "keywords": ["hpc", "slurm", "pace", "georgia-tech", "phoenix", "ice"]
+}
